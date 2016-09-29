@@ -1,2 +1,2 @@
-test1:wq
+test1
 
